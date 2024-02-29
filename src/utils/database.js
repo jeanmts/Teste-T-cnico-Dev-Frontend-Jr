@@ -1,7 +1,7 @@
 const cars = [
     {
         id:1,
-        photo:"https://cdn.pixabay.com/photo/2016/10/10/16/40/mini-1729098_1280.jpg",
+        photo:"@/src/assets/car.jpg",
         name: "Mini-copper",
         year: 2020,
         nextReservation: "17/07",
@@ -10,7 +10,7 @@ const cars = [
     },
     {
         id:2,
-        photo:"https://cdn.pixabay.com/photo/2016/10/10/16/40/mini-1729098_1280.jpg",
+        photo:"@/src/assets/car.jpg",
         name: "Mini-copper",
         year: 2020,
         nextReservation: "17/07",
@@ -19,7 +19,7 @@ const cars = [
     }, 
     {
         id:3,
-        photo:"https://cdn.pixabay.com/photo/2016/10/10/16/40/mini-1729098_1280.jpg",
+        photo:"@/src/assets/car.jpg",
         name: "Mini-copper",
         year: 2020,
         nextReservation: "17/07",
